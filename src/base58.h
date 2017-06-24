@@ -273,7 +273,7 @@ public:
     enum
     {
         PUBKEY_ADDRESS = 30, // defcoin addresses start with X
-        SCRIPT_ADDRESS = 5,
+        SCRIPT_ADDRESS = 22, //https://github.com/mperklin/defcoin/commit/107f86170e972ada5cd15e717c7e072c8cb3c298
         PUBKEY_ADDRESS_TEST = 111,
         SCRIPT_ADDRESS_TEST = 196,
     };
